@@ -42,7 +42,6 @@ Along with core electrical subjects, I actively explore **software tools and web
 
 ### 🔔 Mini Project (Electronics)
 - Worked on a **safety buzzer–based project** using basic electronics concepts *(academic exposure)*
-
 ---
 
 ## 🛠️ Soft Skills
